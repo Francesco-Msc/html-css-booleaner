@@ -11,3 +11,24 @@ body{
     width: 150px;
     margin: 30px 20px
 }
+
+main{
+    margin: 30px 0px 0px 20px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+#writer{
+    color: #888888;
+}
+
+#writer a{
+    text-decoration: none;
+    color: #8585ff;
+}
+
+section img{
+    margin-top: 20px;
+}
