@@ -20,7 +20,7 @@ h1{
     margin-bottom: 0px;
 }
 
-#writer{
+.infos{
     color: #888888;
 }
 
@@ -29,6 +29,18 @@ h1{
     color: #8585ff;
 }
 
-section img{
+#images img{
     margin-top: 20px;
+}
+
+span{
+    background-color: yellow;
+}
+
+ul{
+    padding: 0;
+}
+
+#list{
+    margin: 30px 15px;
 }
