@@ -56,3 +56,15 @@ th{
 td span{
     background-color: #9797f983;
 }
+
+footer{
+    background-color: #141461e7;
+    height: 60px;
+    margin-top: 30px;
+}
+
+footer div{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
