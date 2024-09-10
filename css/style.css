@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+#header{
+    height: 100px;
+    background-color: #9fb7ff;
+}
+
+#header img{
+    width: 150px;
+    margin: 30px 20px
+}
