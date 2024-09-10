@@ -13,7 +13,7 @@ body{
 }
 
 main{
-    margin: 30px 0px 0px 20px;
+    margin: 30px 20px 0px 20px;
 }
 
 h1{
@@ -43,4 +43,16 @@ ul{
 
 #list{
     margin: 30px 15px;
+}
+
+th{
+    background-color: #a98efb;
+}
+
+.column{
+    background-color: #a2a2f56a;
+}
+
+td span{
+    background-color: #9797f983;
 }
