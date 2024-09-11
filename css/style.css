@@ -2,15 +2,19 @@ body{
     margin: 0;
 }
 
-#header{
+/* header background and logo */
+
+header{
     height: 100px;
     background-color: #9fb7ff;
 }
 
-#header img{
+header img{
     width: 150px;
     margin: 30px 20px
 }
+
+/* set margin for page content */
 
 main{
     margin: 30px 20px 0px 20px;
@@ -24,18 +28,24 @@ h1{
     color: #888888;
 }
 
-#writer a{
+.infos a{
     text-decoration: none;
     color: #8585ff;
 }
 
-#images img{
+/* margin from title */
+
+#images {
     margin-top: 20px;
 }
+
+/* highlighted text in paragraph */
 
 span{
     background-color: yellow;
 }
+
+/* list style and alignment */
 
 ul{
     padding: 0;
@@ -44,6 +54,8 @@ ul{
 #list{
     margin: 30px 15px;
 }
+
+/* table style */
 
 th{
     background-color: #a98efb;
@@ -56,6 +68,8 @@ th{
 td span{
     background-color: #9797f983;
 }
+
+/* footer and copyright */
 
 footer{
     background-color: #141461e7;
